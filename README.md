@@ -42,28 +42,7 @@
   <animated-image data-catalyst="" _msthidden="3"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/10d7b0a75f5e1dad231bb75e09dafc765bee3302787e7bd8975c03e8931cbe09/68747470733a2f2f6b65737472612e696f2f616464696e672d7461736b732e676966" data-target="animated-image.originalLink" _msthidden="1"><img src="https://camo.githubusercontent.com/10d7b0a75f5e1dad231bb75e09dafc765bee3302787e7bd8975c03e8931cbe09/68747470733a2f2f6b65737472612e696f2f616464696e672d7461736b732e676966" alt="在 UI 中添加新任务" data-canonical-src="https://kestra.io/adding-tasks.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" _mstalt="476879" _msthash="370" _mstvisible="0"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" _msthidden="2" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/10d7b0a75f5e1dad231bb75e09dafc765bee3302787e7bd8975c03e8931cbe09/68747470733a2f2f6b65737472612e696f2f616464696e672d7461736b732e676966" target="_blank" _msthidden="1">
-          
-        <span data-target="animated-image.imageContainer" _msthidden="1">
-            <img data-target="animated-image.replacedImage" alt="Adding new tasks in the UI" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/10d7b0a75f5e1dad231bb75e09dafc765bee3302787e7bd8975c03e8931cbe09/68747470733a2f2f6b65737472612e696f2f616464696e672d7461736b732e676966" _msthidden="A" _mstalt="476879" _msthash="371" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="600" height="338"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Adding new tasks in the UI" _msthidden="A" _mstaria-label="634634" _msthash="549" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" _msthidden="1" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Adding new tasks in the UI" _msthidden="A" _mstaria-label="634634" _msthash="548">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open Adding new tasks in the UI in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/10d7b0a75f5e1dad231bb75e09dafc765bee3302787e7bd8975c03e8931cbe09/68747470733a2f2f6b65737472612e696f2f616464696e672d7461736b732e676966" target="_blank" _msthidden="A" _mstaria-label="1216150" _msthash="372">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image>
+         
 </p>
 <hr>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="25694344" _msthash="373">🚀 快速开始</h2><a id="user-content--quick-start" class="anchor" aria-label="永久链接：🚀快速入门" href="#-quick-start" _mstaria-label="26027261" _msthash="374"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
@@ -75,16 +54,7 @@
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>docker run --pull=always --rm -it -p 8080:8080 --user=root \
   -v /var/run/docker.sock:/var/run/docker.sock \
   -v /tmp:/tmp kestra/kestra:latest server <span class="pl-k">local</span></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="docker run --pull=always --rm -it -p 8080:8080 --user=root \
-  -v /var/run/docker.sock:/var/run/docker.sock \
-  -v /tmp:/tmp kestra/kestra:latest server local" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+    
   </div></div>
 <p dir="auto" _msttexthash="281534305" _msthash="383">查看我们的<a href="https://kestra.io/docs/installation" rel="nofollow" _istranslated="1">安装指南</a>，了解其他部署选项（Docker Compose、Podman、Kubernetes、AWS、GCP、Azure 等）。</p>
 <p dir="auto" _msttexthash="232158069" _msthash="384">在 <a href="http://localhost:8080" rel="nofollow" _istranslated="1">http://localhost:8080</a> 访问 Kestra UI 并开始构建您的第一个流！</p>
@@ -97,20 +67,7 @@
   - <span class="pl-ent">id</span>: <span class="pl-s">say_hello</span>
     <span class="pl-ent">type</span>: <span class="pl-s">io.kestra.plugin.core.log.Log</span>
     <span class="pl-ent">message</span>: <span class="pl-s"><span class="pl-pds">"</span>Hello, World!<span class="pl-pds">"</span></span></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="id: hello_world
-namespace: dev
-
-tasks:
-  - id: say_hello
-    type: io.kestra.plugin.core.log.Log
-    message: &quot;Hello, World!&quot;" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+    
   </div></div>
 <p dir="auto" _msttexthash="60936837" _msthash="388">运行流并在 UI 中查看输出！</p>
 <hr>
@@ -210,27 +167,7 @@ tasks:
       <span class="AnimatedImagePlayer" data-target="animated-image.player" _msthidden="2" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/kestra-io/kestra" target="_blank" _msthidden="1">
           
-        <span data-target="animated-image.imageContainer" _msthidden="1">
-            <img data-target="animated-image.replacedImage" alt="Star the Repo" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/a79c7b0c405af13aafe92dabdea4e977d0ed388cc1c3baf5d1caa465e4b14f63/68747470733a2f2f6b65737472612e696f2f737461722e676966" _msthidden="A" _mstalt="178113" _msthash="453" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="807" height="528"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Star the Repo" _msthidden="A" _mstaria-label="282828" _msthash="551" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" _msthidden="1" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Star the Repo" _msthidden="A" _mstaria-label="282828" _msthash="550">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open Star the Repo in new window" class="AnimatedImagePlayer-button" href="https://github.com/kestra-io/kestra" target="_blank" _msthidden="A" _mstaria-label="707174" _msthash="454">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+         
 <hr>
 <p dir="auto" _msttexthash="394691037" _msthash="455">感谢您考虑使用 Kestra 来满足您的工作流编排需求。我们迫不及待地想看看您将构建什么！</p>
 </article></div>
